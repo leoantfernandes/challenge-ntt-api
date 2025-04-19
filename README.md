@@ -8,4 +8,3 @@ Desafio de automação de testes para a API do ServeRest (https://serverest.dev)
 
 ## 📂 Estrutura
 - Testes de API em: cypress/e2e/serverest-test.cy.js/
-- Comandos customizados em: cypress/support/commands.js
